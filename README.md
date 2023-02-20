@@ -14,3 +14,4 @@
 </ul>
 
 [PT] Este foi um dos meus primeiros jogos, com o objetivo era tornar o jogo funcional, então o código era desorganizado e as funções podem ter nomes sem sentido, durante o desenvolvimento do código o jogo deixou de ser necessário então foi descontinuado. De toda forma foi uma experiência única em um periodo de aprendizado, espero que aproveite o código e se divirta com o jogo.
+
