@@ -1,7 +1,11 @@
 # POPEYE_PG_92
-
 ### [PT] Primeira experiência com desenvolvimento completo de um minijogo.
-![POPEYE PG 92!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+<figure>
+    <img src="/GAME_POPEYE_PG_92/jogo.png" width="450"
+         alt="Popeye Pg 92, tela in-game">
+    <figcaption>Popeye Pg 92, tela in-game</figcaption>
+</figure>
 
 <ul>
   <li>Releitura de Sprites feita no Addobe Illustrator</li>
